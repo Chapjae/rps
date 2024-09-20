@@ -57,15 +57,15 @@ export default function Instructions() {
         </li>
         <li>
           Backstep (Retreating Movement): You take one step away from your
-          opponent. Distance counter is increased by 1. Loses to Lunge and Rush. If your
-          opponent chose Rush, you will be in the Vulnerable status.
+          opponent. Distance counter is increased by 1. Loses to Lunge and Rush.
+          If your opponent chose Rush, you will be in the Vulnerable status.
         </li>
         <li>
           Measure-up: Halt your opponents advance with your weapon range. Loses
           to Side Step and Back Step
         </li>
         <li>
-          Lunge (Advancing Movement): You take a large step forward your
+          Lunge (Advancing Movement): You take a large step forward towards your
           opponent. Distance counter is reduced by 2. Beats Backstep
         </li>
       </ul>
